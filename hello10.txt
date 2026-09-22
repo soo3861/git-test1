@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello git world
+=======
+hello github 
+>>>>>>> feature
